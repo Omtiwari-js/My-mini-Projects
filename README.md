@@ -5,6 +5,6 @@ A collection of basic vanilla JavaScript projects built to strengthen core logic
 ### 📌 Live Demos
 * **Calculator App:** [https://om-js-calculator.netlify.app/]
 * 
-* **Password Generator:** [https://password-generator-javascript-by.netlify.app/](#)
+* **Password Generator:** [https://password-generator-javascript-by.netlify.app/]
 * 
-* **To-Do List:** [https://todiolist.netlify.app/](#)
+* **To-Do List:** [https://todiolist.netlify.app/]
